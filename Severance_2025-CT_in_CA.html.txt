@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Computed Tomography in California</title>
+</head>
+<body>
+
+  <h1>Computed Tomography in California</h1>
+  <h2>Authors: Lauren Severance, Andrew Primak</h2>
+  <h3>Published: Journal of CA CT 2025 </h3>
+
+  <hr>
+
+  <h2>Abstract</h2>
+  <p>CT is used in California.</p>
+
+  <h2>Introduction</h2>
+  <p>CT is used in California a lot.</p>
+
+  <h2>Methods</h2>
+  <p>We studied how often CT is used in California.</p>
+
+  <h2>Results</h2>
+  <p>CT is used in California quite a bit, actually. Especially near the coast.</p>
+
+  <h2>Discussion</h2>
+  <p>Our results align with our previous assumptions. We expect CT to grow even more in CA in the future.</p>
+
+  <h2>Conclusion</h2>
+  <p>CT is quite popular in California.</p>
+
+  <h2>References</h2>
+  <ul>
+    <li>[The Sun, 2000, California has sun, but I'm not the only radiation, Journal of Sun]</li>
+    <li>[The Moon, 2005, Californians love the outdoors, and I'm outdoors, Journal of Moon]</li>
+  </ul>
+
+</body>
+</html>
